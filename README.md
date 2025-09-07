@@ -1,1 +1,1 @@
-![](public/ss1)
+![](finalproject/public/ss1)

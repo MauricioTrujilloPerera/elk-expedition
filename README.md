@@ -1,1 +1,2 @@
-![](finalproject/public/filename ss1)
+![](/public/ss1.png)
+![](./public/ss1.png)
